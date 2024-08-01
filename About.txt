@@ -1,0 +1,14 @@
+First projects with APIS and call them in VS Code
+=================================================
+
+1 - Models
+   -Domain
+   - DTOs
+* install packages
+
+2- DB context
+
+3 infrastructure
+  ----interface
+  ----Repository
+
